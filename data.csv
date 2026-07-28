@@ -1,0 +1,15 @@
+Roll	Age	Income	Student	Credit_Rating	Buys_Computer
+1	Youth	High	No	Fail	No
+2	Youth	High	No	Excellent	No
+3	Middleage	High	No	Fail	Yes
+4	Senior	Medium	No	Fail	Yes
+5	Senior	Low	Yes	Fail	Yes
+6	Senior	Low	Yes	Excellent	No
+7	Middleage	Low	Yes	Excellent	Yes
+8	Youth	Medium	No	Fail	No
+9	Youth	Low	Yes	Fail	Yes
+10	Senior	Medium	Yes	Fail	Yes
+11	Youth	Medium	Yes	Excellent	Yes
+12	Middleage	Medium	No	Excellent	Yes
+13	Middleage	High	Yes	Fail	Yes
+14	Senior	Medium	No	Excellent	No
